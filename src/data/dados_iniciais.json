@@ -1,0 +1,273 @@
+{
+  "categorias": [
+    {
+      "titulo": "HipHop",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Rap e Trap da melhor forma",
+        "url": "https://www.youtube.com/channel/UCbV3qQQPA2RGO_mQ1V1952Q"
+      },
+      "videos": [
+        {
+          "titulo": "Melhores conteúdos do youtube!",
+          "url": "https://www.youtube.com/watch?v=ydVtVcMq11w"
+        },
+        {
+          "titulo": "Plantado",
+          "url": "https://www.youtube.com/watch?v=S06-6TAAAi0"
+        },
+        {
+          "titulo": "Flippity",
+          "url": "https://www.youtube.com/watch?v=C0yn0H5SNb4"
+        },
+        {
+          "titulo": "Métrica sem conteúdo",
+          "url": "https://www.youtube.com/watch?v=ydVtVcMq11w"
+        },
+        {
+          "titulo": "Flow Agostinho Carrara",
+          "url": "https://www.youtube.com/watch?v=c27BwSpT33U"
+        },
+        {
+          "titulo": "Gelo",
+          "url": "https://www.youtube.com/watch?v=nWlRdVzT2Vc"
+        },
+        {
+          "titulo": "Teoria do Ciclo da Água",
+          "url": "https://www.youtube.com/watch?v=IBfXHCvKUpY&list=OLAK5uy_mbenevHBDaPYkgInk202wgzBRgP8_7_pk&index=2"
+        },
+        {
+          "titulo": "Mi'aDama",
+          "url": "https://www.youtube.com/watch?v=tGSAJi32seU"
+        },
+        {
+          "titulo": "E Aí Moleque",
+          "url": "https://www.youtube.com/watch?v=7prxf4R4ySo"
+        },
+        {
+          "titulo": "$ENHOR",
+          "url": "https://www.youtube.com/watch?v=oXsmbhLfJrA"
+        }           
+      ]
+    },
+    {
+      "titulo": "Humor",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Humor e curiosidades da quarentena",
+        "url": "https://www.youtube.com/channel/UCpu1-Vobcq5fXaHjIzSMqWA"
+      },
+      "videos": [
+        {
+          "titulo": "Aprendendo uma coisa nova todo dia!",
+          "url": "https://www.youtube.com/watch?v=TOIhbk6LdFg&t=892s"
+        },
+        {
+          "titulo": "Comi o lámen do naruto!",
+          "url": "https://www.youtube.com/watch?v=8wjFQc1SFJA&t=32s"
+        },
+        {
+          "titulo": "Coisas em câmera lenta",
+          "url": "https://www.youtube.com/watch?v=WPilf5VPXLY&t=16s"
+        },
+        {
+          "titulo": "Vou virar boxeador!",
+          "url": "https://www.youtube.com/watch?v=XuuMwMV2VJE&t=2s"
+        }, 
+        {
+          "titulo": "Revanche!",
+          "url": "https://www.youtube.com/watch?v=Q7NHUDSFFdU"
+        },
+        {
+          "titulo": "Jogo da velha com meu cachorro!",
+          "url": "https://www.youtube.com/watch?v=QE66Yg-rijo"
+        },
+        {
+          "titulo": "Corri 5km todo dia por um mês",
+          "url": "https://www.youtube.com/watch?v=9_aO7_9spcs"
+        },
+        {
+          "titulo": "Coloquei a GoPro no meu cachorro",
+          "url": "https://www.youtube.com/watch?v=pWCqwrDHKQ8"
+        },    
+        {
+          "titulo": "Tobias e seus bambolês #2",
+          "url": "https://www.youtube.com/watch?v=J6KYeJCMYrM"
+        },
+        {
+          "titulo": "Tobias e seus bambolês #1",
+          "url": "https://www.youtube.com/watch?v=h5AsglWR-rU&t=1s"
+        }
+      ]
+    },
+    {
+      "titulo": "Esporte",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Conteúdos de futsal",
+        "url": "https://www.youtube.com/channel/UCpu1-Vobcq5fXaHjIzSMqWA"
+      },
+      "videos": [
+        {
+          "titulo": "Melhores defesas pré quarentena",
+          "url": "https://www.youtube.com/watch?v=iULb8NoeWuo&t=1s"
+        },
+        {
+          "titulo": "Oitavas de final Cura/Bunitim",
+          "url": "https://www.youtube.com/watch?v=91OM7k4FEj0&t=19s"
+        },
+        {
+          "titulo": "Jogo valendo troféu!",
+          "url": "https://www.youtube.com/watch?v=qPkVqPHZYog&t=11s"
+        },
+        {
+          "titulo": "Jogo contra BrFutsal",
+          "url": "https://www.youtube.com/watch?v=yxUb16im1Ks"
+        },
+        {
+          "titulo": "Segundo jogo fase de grupos Cura/Bunitim",
+          "url": "https://www.youtube.com/watch?v=2uMDmZb5cug"
+        },
+        {
+          "titulo": "Melhores defesas 2019",
+          "url": "https://www.youtube.com/watch?v=8RGxWIpsaMs&t=146s"
+        },
+        {
+          "titulo": "Primeiro jogo fase de grupos Cura/Bunitim",
+          "url": "https://www.youtube.com/watch?v=UtiY2LAZ4EE"
+        },
+        {
+          "titulo": "Oitavas de Final Cura",
+          "url": "https://www.youtube.com/watch?v=AHNpVwl_40s"
+        },
+        {
+          "titulo": "Último jogo fase de grupos Cura",
+          "url": "https://www.youtube.com/watch?v=iRhzvR8qJxY"
+        },
+        {
+          "titulo": "Segundo jogo fase de grupo Cura",
+          "url": "https://www.youtube.com/watch?v=xGYbytRCw9M&t=399s"
+        }
+      ]
+    },
+    {
+      "titulo": "Eletrônica",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Fritos",
+        "url": "https://www.youtube.com/user/holasoyneto"
+      },
+      "videos": [
+        {
+          "titulo": "Bonossauro",
+          "url": "https://www.youtube.com/watch?v=kWQNiHlGq2Q"
+        },
+        {
+          "titulo": "Interlude",
+          "url": "https://www.youtube.com/watch?v=__ntxMIrvKU"
+        },
+        {
+          "titulo": "Imaginarium",
+          "url": "https://www.youtube.com/watch?v=Ypxl-Q0QOzc"
+        },
+        {
+          "titulo": "Innerbloom",
+          "url": "https://www.youtube.com/watch?v=2kgn4KwPn58"
+        },
+        {
+          "titulo": "Priceless Advice",
+          "url": "https://www.youtube.com/watch?v=KIQHSygiHfI"
+        },
+        {
+          "titulo": "Snow Crystal",
+          "url": "https://www.youtube.com/watch?v=9PNV6Lg_ajA"
+        },
+        {
+          "titulo": "GOT KSHMR",
+          "url": "https://www.youtube.com/watch?v=no2dG9OlXZo"
+        },
+        {
+          "titulo": "Across the Skies",
+          "url": "https://www.youtube.com/watch?v=RJVWVTvDV44"
+        }
+      ]
+    },
+    {
+      "titulo": "Batalhas de Rima",
+      "cor": "red",
+      "link_extra": {
+        "text": "Dudu e JayA Luuck",
+        "url": "https://www.youtube.com/channel/UCiQOZESPInOXr_6FD-Pq0Hg"
+      },
+      "videos": [
+        {
+          "titulo": "Dudu vs JayA",
+          "url": "https://www.youtube.com/watch?v=6pxBoe4fjDk&t=503s"
+        },
+        {
+          "titulo": "Dudu 2019",
+          "url": "https://www.youtube.com/watch?v=mf6Q7l5QJwg"
+        },
+        {
+          "titulo": "JayA 2019 part. 2",
+          "url": "https://www.youtube.com/watch?v=-OsFKHrcgL8"
+        },
+        {
+          "titulo": "Dudu rei do flow",
+          "url": "https://www.youtube.com/watch?v=AjR5Dmt2nIw"
+        },
+        {
+          "titulo": "JayA 2019",
+          "url": "https://www.youtube.com/watch?v=FfPNrW9iDCY&t=681s"
+        },
+        {
+          "titulo": "Dudu brincando com Beat",
+          "url": "https://www.youtube.com/watch?v=S7lIxkJKqb4&t=1s"
+        },
+        {
+          "titulo": "JayA 2020",
+          "url": "https://www.youtube.com/watch?v=SZEVky8LSgI"
+        },
+        {
+          "titulo": "Dudu projeto boca a boca",
+          "url": "https://www.youtube.com/watch?v=DIGumqDgTcg"
+        },
+        {
+          "titulo": "JayA 2018",
+          "url": "https://www.youtube.com/watch?v=tyAFeBQeRgY"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Destiny 2",
+        "url": "https://www.youtube.com/channel/UCuWKpGko0XFUxqjFBQ1MSwA"
+      },
+      "videos": [
+        {
+          "titulo": "Trials ep 5",
+          "url": "https://www.youtube.com/watch?v=NWwS0wq9is0&list=UUuWKpGko0XFUxqjFBQ1MSwA"
+        },
+        {
+          "titulo": "Trials ep 4",
+          "url": "https://www.youtube.com/watch?v=lh9VAuMWuMM&list=UUuWKpGko0XFUxqjFBQ1MSwA&index=3"
+        },
+        {
+          "titulo": "Trials ep 3",
+          "url": "https://www.youtube.com/watch?v=62mttq2yexs&list=UUuWKpGko0XFUxqjFBQ1MSwA&index=4"
+        },
+        {
+          "titulo": "Trials ep 2",
+          "url": "https://www.youtube.com/watch?v=Jyoi6B1_fnU&list=UUuWKpGko0XFUxqjFBQ1MSwA&index=6"
+        },
+        {
+          "titulo": "Trials ep 1",
+          "url": "https://www.youtube.com/watch?v=rW6QyHnm6aI&list=UUuWKpGko0XFUxqjFBQ1MSwA&index=7"
+        }
+      ]
+    }
+  ]
+}
