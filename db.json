@@ -1,0 +1,354 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Rap",
+        "cor": "#141414",
+        "link": "https://www.youtube.com/channel/UCbV3qQQPA2RGO_mQ1V1952Q"
+      },
+      {
+        "id": 2,
+        "titulo": "Humor",
+        "cor": "#141414",
+        "link": "https://www.youtube.com/channel/UCpu1-Vobcq5fXaHjIzSMqWA"
+      },
+      {
+        "id": 3,
+        "titulo": "Futsal",
+        "cor": "#141414",
+        "link": "https://www.youtube.com/channel/UCpu1-Vobcq5fXaHjIzSMqWA"
+      },
+      {
+        "id": 4,
+        "titulo": "Fritos",
+        "cor": "#141414",
+        "link": "https://www.youtube.com/user/holasoyneto"
+      },
+      {
+        "id": 5,
+        "titulo": "Batalhas de Rima",
+        "cor": "#141414",
+        "link": "https://www.youtube.com/channel/UCiQOZESPInOXr_6FD-Pq0Hg"
+      },
+      {
+        "id": 6,
+        "titulo": "Destiny",
+        "cor": "#141414",
+        "link": "https://www.youtube.com/channel/UCuWKpGko0XFUxqjFBQ1MSwA"
+      }
+    ],
+    "videos": [
+      {
+        "id": 1,
+        "categoriaId": 1,
+        "titulo": "Melhores conteúdos do youtube!",
+        "url": "https://www.youtube.com/watch?v=ydVtVcMq11w"
+      },
+      {
+        "id": 2,
+        "categoriaId": 1,
+        "titulo": "Te Conhecendo",
+        "url": "https://www.youtube.com/watch?v=If2Xgx_Kz9E&t=20s"
+      },
+      {
+        "id": 3,
+        "categoriaId": 1,
+        "titulo": "Plantado",
+        "url": "https://www.youtube.com/watch?v=S06-6TAAAi0"
+      },
+      {
+        "id": 4,
+        "categoriaId": 1,
+        "titulo": "Flippity",
+        "url": "https://www.youtube.com/watch?v=C0yn0H5SNb4"
+      },
+      {
+        "id": 5,
+        "categoriaId": 1,
+        "titulo": "Métrica sem conteúdo",
+        "url": "https://www.youtube.com/watch?v=ydVtVcMq11w"
+      },
+      {
+        "id": 6,
+        "categoriaId": 1,
+        "titulo": "Flow Agostinho Carrara",
+        "url": "https://www.youtube.com/watch?v=c27BwSpT33U"
+      },
+      {
+        "id": 7,
+        "categoriaId": 1,
+        "titulo": "Gelo",
+        "url": "https://www.youtube.com/watch?v=nWlRdVzT2Vc"
+      },
+      {
+        "id": 8,
+        "categoriaId": 1,
+        "titulo": "Teoria do Ciclo da Água",
+        "url": "https://www.youtube.com/watch?v=IBfXHCvKUpY&list=OLAK5uy_mbenevHBDaPYkgInk202wgzBRgP8_7_pk&index=2"
+      },
+      {
+        "id": 9,
+        "categoriaId": 1,
+        "titulo": "Mi'aDama",
+        "url": "https://www.youtube.com/watch?v=tGSAJi32seU"
+      },
+      {
+        "id": 10,
+        "categoriaId": 1,
+        "titulo": "E Aí Moleque",
+        "url": "https://www.youtube.com/watch?v=7prxf4R4ySo"
+      },
+      {
+        "id": 11,
+        "categoriaId": 1,
+        "titulo": "$ENHOR",
+        "url": "https://www.youtube.com/watch?v=oXsmbhLfJrA"
+      },
+      {
+        "id": 12,
+        "categoriaId": 2,
+        "titulo": "Aprendendo uma coisa nova todo dia!",
+        "url": "https://www.youtube.com/watch?v=TOIhbk6LdFg&t=892s"
+      },
+      {
+        "id": 13,
+        "categoriaId": 2,
+        "titulo": "Comi o lámen do naruto!",
+        "url": "https://www.youtube.com/watch?v=8wjFQc1SFJA&t=32s"
+      },
+      {
+        "id": 14,
+        "categoriaId": 2,
+        "titulo": "Coisas em câmera lenta",
+        "url": "https://www.youtube.com/watch?v=WPilf5VPXLY&t=16s"
+      },
+      {
+        "id": 15,
+        "categoriaId": 2,
+        "titulo": "Vou virar boxeador!",
+        "url": "https://www.youtube.com/watch?v=XuuMwMV2VJE&t=2s"
+      },
+      {
+        "id": 16,
+        "categoriaId": 2,
+        "titulo": "Revanche!",
+        "url": "https://www.youtube.com/watch?v=Q7NHUDSFFdU"
+      },
+      {
+        "id": 17,
+        "categoriaId": 2,
+        "titulo": "Jogo da velha com meu cachorro!",
+        "url": "https://www.youtube.com/watch?v=QE66Yg-rijo"
+      },
+      {
+        "id": 18,
+        "categoriaId": 2,
+        "titulo": "Corri 5km todo dia por um mês",
+        "url": "https://www.youtube.com/watch?v=9_aO7_9spcs"
+      },
+      {
+        "id": 19,
+        "categoriaId": 2,
+        "titulo": "Coloquei a GoPro no meu cachorro",
+        "url": "https://www.youtube.com/watch?v=pWCqwrDHKQ8"
+      },
+      {
+        "id": 20,
+        "categoriaId": 2,
+        "titulo": "Tobias e seus bambolês #2",
+        "url": "https://www.youtube.com/watch?v=J6KYeJCMYrM"
+      },
+      {
+        "id": 21,
+        "categoriaId": 2,
+        "titulo": "Tobias e seus bambolês #1",
+        "url": "https://www.youtube.com/watch?v=h5AsglWR-rU&t=1s"
+      },
+      {
+        "id": 22,
+        "categoriaId": 3,
+        "titulo": "Oitavas de final Cura/Bunitim",
+        "url": "https://www.youtube.com/watch?v=91OM7k4FEj0&t=19s"
+      },
+      {
+        "id": 23,
+        "categoriaId": 3,
+        "titulo": "Jogo valendo troféu!",
+        "url": "https://www.youtube.com/watch?v=qPkVqPHZYog&t=11s"
+      },
+      {
+        "id": 24,
+        "categoriaId": 3,
+        "titulo": "Jogo contra BrFutsal",
+        "url": "https://www.youtube.com/watch?v=yxUb16im1Ks"
+      },
+      {
+        "id": 25,
+        "categoriaId": 3,
+        "titulo": "Segundo jogo fase de grupos Cura/Bunitim",
+        "url": "https://www.youtube.com/watch?v=2uMDmZb5cug"
+      },
+      {
+        "id": 26,
+        "categoriaId": 3,
+        "titulo": "Melhores defesas 2019",
+        "url": "https://www.youtube.com/watch?v=8RGxWIpsaMs&t=146s"
+      },
+      {
+        "id": 27,
+        "categoriaId": 3,
+        "titulo": "Primeiro jogo fase de grupos Cura/Bunitim",
+        "url": "https://www.youtube.com/watch?v=UtiY2LAZ4EE"
+      },
+      {
+        "id": 28,
+        "categoriaId": 3,
+        "titulo": "Oitavas de Final Cura",
+        "url": "https://www.youtube.com/watch?v=AHNpVwl_40s"
+      },
+      {
+        "id": 29,
+        "categoriaId": 3,
+        "titulo": "Último jogo fase de grupos Cura",
+        "url": "https://www.youtube.com/watch?v=iRhzvR8qJxY"
+      },
+      {
+        "id": 30,
+        "categoriaId": 3,
+        "titulo": "Segundo jogo fase de grupo Cura",
+        "url": "https://www.youtube.com/watch?v=xGYbytRCw9M&t=399s"
+      },
+      {
+        "id": 31,
+        "categoriaId": 3,
+        "titulo": "Melhores defesas pré quarentena",
+        "url": "https://www.youtube.com/watch?v=iULb8NoeWuo&t=1s"
+      },
+      {
+        "id": 32,
+        "categoriaId": 4,
+        "titulo": "Interlude",
+        "url": "https://www.youtube.com/watch?v=__ntxMIrvKU"
+      },
+      {
+        "id": 33,
+        "categoriaId": 4,
+        "titulo": "Imaginarium",
+        "url": "https://www.youtube.com/watch?v=Ypxl-Q0QOzc"
+      },
+      {
+        "id": 34,
+        "categoriaId": 4,
+        "titulo": "Innerbloom",
+        "url": "https://www.youtube.com/watch?v=2kgn4KwPn58"
+      },
+      {
+        "id": 35,
+        "categoriaId": 4,
+        "titulo": "Priceless Advice",
+        "url": "https://www.youtube.com/watch?v=KIQHSygiHfI"
+      },
+      {
+        "id": 36,
+        "categoriaId": 4,
+        "titulo": "Snow Crystal",
+        "url": "https://www.youtube.com/watch?v=9PNV6Lg_ajA"
+      },
+      {
+        "id": 37,
+        "categoriaId": 4,
+        "titulo": "GOT KSHMR",
+        "url": "https://www.youtube.com/watch?v=no2dG9OlXZo"
+      },
+      {
+        "id": 38,
+        "categoriaId": 4,
+        "titulo": "Across the Skies",
+        "url": "https://www.youtube.com/watch?v=RJVWVTvDV44"
+      },
+      {
+        "id": 39,
+        "categoriaId": 5,
+        "titulo": "Dudu vs JayA",
+        "url": "https://www.youtube.com/watch?v=6pxBoe4fjDk&t=503s"
+      },
+      {
+        "id": 40,
+        "categoriaId": 5,
+        "titulo": "Dudu 2019",
+        "url": "https://www.youtube.com/watch?v=mf6Q7l5QJwg"
+      },
+      {
+        "id": 41,
+        "categoriaId": 5,
+        "titulo": "JayA 2019 part. 2",
+        "url": "https://www.youtube.com/watch?v=-OsFKHrcgL8"
+      },
+      {
+        "id": 42,
+        "categoriaId": 5,
+        "titulo": "Dudu rei do flow",
+        "url": "https://www.youtube.com/watch?v=AjR5Dmt2nIw"
+      },
+      {
+        "id": 43,
+        "categoriaId": 5,
+        "titulo": "JayA 2019",
+        "url": "https://www.youtube.com/watch?v=FfPNrW9iDCY&t=681s"
+      },
+      {
+        "id": 44,
+        "categoriaId": 5,
+        "titulo": "Dudu brincando com Beat",
+        "url": "https://www.youtube.com/watch?v=S7lIxkJKqb4&t=1s"
+      },
+      {
+        "id": 45,
+        "categoriaId": 5,
+        "titulo": "JayA 2020",
+        "url": "https://www.youtube.com/watch?v=SZEVky8LSgI"
+      },
+      {
+        "id": 46,
+        "categoriaId": 5,
+        "titulo": "Dudu projeto boca a boca",
+        "url": "https://www.youtube.com/watch?v=DIGumqDgTcg"
+      },
+      {
+        "id": 47,
+        "categoriaId": 5,
+        "titulo": "JayA 2018",
+        "url": "https://www.youtube.com/watch?v=tyAFeBQeRgY"
+      },
+      {
+        "id": 48,
+        "categoriaId": 6,
+        "titulo": "Trials ep 5",
+        "url": "https://www.youtube.com/watch?v=NWwS0wq9is0&list=UUuWKpGko0XFUxqjFBQ1MSwA"
+      },
+      {
+        "id": 49,
+        "categoriaId": 6,
+        "titulo": "Trials ep 4",
+        "url": "https://www.youtube.com/watch?v=lh9VAuMWuMM&list=UUuWKpGko0XFUxqjFBQ1MSwA&index=3"
+      },
+      {
+        "id": 50,
+        "categoriaId": 6,
+        "titulo": "Trials ep 3",
+        "url": "https://www.youtube.com/watch?v=62mttq2yexs&list=UUuWKpGko0XFUxqjFBQ1MSwA&index=4"
+      },
+      {
+        "id": 51,
+        "categoriaId": 6,
+        "titulo": "Trials ep 2",
+        "url": "https://www.youtube.com/watch?v=Jyoi6B1_fnU&list=UUuWKpGko0XFUxqjFBQ1MSwA&index=6"
+      },
+      {
+        "id": 52,
+        "categoriaId": 6,
+        "titulo": "Trials ep 1",
+        "url": "https://www.youtube.com/watch?v=rW6QyHnm6aI&list=UUuWKpGko0XFUxqjFBQ1MSwA&index=7"
+      }
+    ]
+  }

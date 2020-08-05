@@ -1,7 +1,9 @@
 /* eslint-disable react/jsx-props-no-spreading */
-import React from 'react';
+import React, { useState } from 'react';
 import SlickSlider from 'react-slick';
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
+import prevArrow from '../../../../Assets/img/chevron-left.svg';
+import nextArrow from '../../../../Assets/img/chevron-right.svg';
 
 const Container = styled.ul`
   padding: 0;
@@ -19,7 +21,7 @@ const Container = styled.ul`
       font-size: 30px;
     }
   }
-  
+
   .slick-prev {
     left: 0;
   }
@@ -29,7 +31,7 @@ const Container = styled.ul`
 `;
 
 export const SliderItem = styled.li`
-  margin-right: 16px;
+  margin-right: 4px;
   img {
     margin: 16px;
     width: 298px;
@@ -38,21 +40,55 @@ export const SliderItem = styled.li`
   }
 `;
 
+const setScrollNumber = (conteudo) => {
+  if (conteudo[0].titulo === 'Melhores conteúdos do youtube!') {
+    return ((conteudo.length - 1) % 2 === 0 ? 2 : 3);
+  } if ((conteudo.length >= 9)) {
+    return (conteudo.length % 2 === 0) ? 2 : 3;
+  }
+  return (conteudo.length % 2 === 0) ? 2 : 1;
+};
 
-const Slider = ({ children }) => (
-  <Container>
-    <SlickSlider {...{
-      dots: false,
-      infinite: false,
-      speed: 300,
-      centerMode: false,
-      variableWidth: true,
-      adaptiveHeight: true,
-    }}
-    >
-      {children}
-    </SlickSlider>
-  </Container>
-);
+// export const Arrow = styled.img`
+//  visibility: hidden;
+//  &:hover,
+//  &:focus {
+//     ;
+//   }
+//  `
 
-export default Slider; 
+const Slider = ({ conteudo, children }) => {
+  const configArrow = (type) => (type === 1 ? (<img src={prevArrow} alt="prevArrow" />) : <img src={nextArrow} alt="nextArrow" />);
+
+  // const handleMouseOver = () => {
+  //   setArrow(true);
+  // }
+
+  // const handleMouseOut = () => {
+  //   // setArrow(false)
+  // }
+
+  // const [arrow, setArrow] = useState(false);
+  return (
+    <Container>
+      <SlickSlider {...{
+        // arrows: arrow,
+        dots: false,
+        infinite: true,
+        speed: 600,
+        centerMode: false,
+        variableWidth: true,
+        adaptiveHeight: true,
+        slidesToScroll: setScrollNumber(conteudo),
+        focusOnSelect: false,
+        // prevArrow: configArrow(1),
+        // nextArrow: configArrow(2),
+      }}
+      >
+        {children}
+      </SlickSlider>
+    </Container>
+  );
+};
+
+export default Slider;

@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "HipHop",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Rap e Trap da melhor forma",
-        "url": "https://www.youtube.com/channel/UCbV3qQQPA2RGO_mQ1V1952Q"
-      },
+      "titulo": "Rap",
+      "link": "https://www.youtube.com/channel/UCbV3qQQPA2RGO_mQ1V1952Q",
+      "cor": "#141414",
       "videos": [
         {
           "titulo": "Melhores conteúdos do youtube!",
           "url": "https://www.youtube.com/watch?v=ydVtVcMq11w"
+        },
+        {
+          "titulo": "Te Conhecendo",
+          "url": "https://www.youtube.com/watch?v=If2Xgx_Kz9E&t=20s"
         },
         {
           "titulo": "Plantado",
@@ -53,11 +53,8 @@
     },
     {
       "titulo": "Humor",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Humor e curiosidades da quarentena",
-        "url": "https://www.youtube.com/channel/UCpu1-Vobcq5fXaHjIzSMqWA"
-      },
+      "cor": "#141414",
+      "link": "https://www.youtube.com/channel/UCpu1-Vobcq5fXaHjIzSMqWA",
       "videos": [
         {
           "titulo": "Aprendendo uma coisa nova todo dia!",
@@ -102,17 +99,10 @@
       ]
     },
     {
-      "titulo": "Esporte",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Conteúdos de futsal",
-        "url": "https://www.youtube.com/channel/UCpu1-Vobcq5fXaHjIzSMqWA"
-      },
+      "titulo": "Futsal",
+      "cor": "#141414",
+      "link": "https://www.youtube.com/channel/UCpu1-Vobcq5fXaHjIzSMqWA",
       "videos": [
-        {
-          "titulo": "Melhores defesas pré quarentena",
-          "url": "https://www.youtube.com/watch?v=iULb8NoeWuo&t=1s"
-        },
         {
           "titulo": "Oitavas de final Cura/Bunitim",
           "url": "https://www.youtube.com/watch?v=91OM7k4FEj0&t=19s"
@@ -148,21 +138,18 @@
         {
           "titulo": "Segundo jogo fase de grupo Cura",
           "url": "https://www.youtube.com/watch?v=xGYbytRCw9M&t=399s"
+        },
+        {
+          "titulo": "Melhores defesas pré quarentena",
+          "url": "https://www.youtube.com/watch?v=iULb8NoeWuo&t=1s"
         }
       ]
     },
     {
-      "titulo": "Eletrônica",
-      "cor": "orange",
-      "link_extra": {
-        "text": "Fritos",
-        "url": "https://www.youtube.com/user/holasoyneto"
-      },
+      "titulo": "Fritos",
+      "cor": "#141414",
+      "link": "https://www.youtube.com/user/holasoyneto",
       "videos": [
-        {
-          "titulo": "Bonossauro",
-          "url": "https://www.youtube.com/watch?v=kWQNiHlGq2Q"
-        },
         {
           "titulo": "Interlude",
           "url": "https://www.youtube.com/watch?v=__ntxMIrvKU"
@@ -195,11 +182,8 @@
     },
     {
       "titulo": "Batalhas de Rima",
-      "cor": "red",
-      "link_extra": {
-        "text": "Dudu e JayA Luuck",
-        "url": "https://www.youtube.com/channel/UCiQOZESPInOXr_6FD-Pq0Hg"
-      },
+      "cor": "#141414",
+      "link": "https://www.youtube.com/channel/UCiQOZESPInOXr_6FD-Pq0Hg",
       "videos": [
         {
           "titulo": "Dudu vs JayA",
@@ -240,12 +224,9 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Destiny 2",
-        "url": "https://www.youtube.com/channel/UCuWKpGko0XFUxqjFBQ1MSwA"
-      },
+      "titulo": "Destiny",
+      "cor": "#141414",
+      "link": "https://www.youtube.com/channel/UCuWKpGko0XFUxqjFBQ1MSwA",
       "videos": [
         {
           "titulo": "Trials ep 5",
